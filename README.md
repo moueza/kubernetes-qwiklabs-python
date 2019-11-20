@@ -1,4 +1,10 @@
 # training-data-analyst 
+From https://google.qwiklabs.com/focuses/1073?parent=catalog
+
+Run console shell from required project
+
+####################""
+
 
 Labs and demos for Google Cloud Platform courses (http://cloud.google.com/training).
 
